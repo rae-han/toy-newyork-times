@@ -1,0 +1,9 @@
+.BookItem {
+  list-style: none;
+
+  &__title {
+    font-size: 1.6rem;
+    max-width: 200px;
+    text-overflow: ellipsis;
+  }
+}
